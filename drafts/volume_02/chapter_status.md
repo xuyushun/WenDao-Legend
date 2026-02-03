@@ -1,8 +1,8 @@
 # 第二卷章节状态追踪
 
 ## 统计
-*   **总进度**：47 / 100
-*   **当前阶段**：第三阶段结束，准备进入第四阶段（鬼谷纵横局）
+*   **总进度**：62 / 100
+*   **当前阶段**：第四阶段结束，第五阶段（名家逻辑锁）开始
 
 ## 章节列表
 
@@ -64,7 +64,18 @@
 - [x] **第149章 新的线索：纵横家** (ch149_new_clue_diplomat.md)
 - [x] **第150章 鬼谷的邀请函** (ch150_ghost_valley_invitation.md)
 - [x] **第151章 迷雾鬼谷** (ch151_mist_ghost_valley.md)
-- [ ] **第152章 第一关：囚徒困境**
+- [x] **第152章 第一关：囚徒困境** (ch152_prisoners_dilemma.md)
+- [x] **第153章 伪造的选项** (ch153_fake_choice.md)
+- [x] **第154章 进入棋局** (ch154_entering_the_game.md)
+- [x] **第155章 每个人都是棋子** (ch155_everyone_is_a_pawn.md)
+- [x] **第156章 虚拟沙盘推演** (ch156_virtual_sandbox_deduction.md)
+- [x] **第157章 纵横之术** (ch157_art_of_alliance.md)
+- [x] **第158章 纳什均衡** (ch158_nash_equilibrium.md)
+- [x] **第159章 影门的暗子** (ch159_shadow_sect_spy.md)
+- [x] **第160章 信任危机** (ch160_trust_crisis.md)
+- [x] **第161章 鬼谷子的真面目** (ch161_true_identity.md)
 
-### 第五阶段：名家诡辩论与收官（176-200）
+### 第五阶段：名家逻辑锁（162-185）
+- [x] **第162章 离开鬼谷，告别师兄** (ch162_farewell_senior_brother.md)
+- [ ] **第163章 稷下学宫：赛博学院** (ch163_jixia_academy.md)
 - [ ] ... (待补充)
