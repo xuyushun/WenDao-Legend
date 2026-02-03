@@ -92,4 +92,22 @@
 - [x] **第175章 道可道，非常道** (ch175_the_nameless_tao.md)
 
 ### 第六阶段：儒家礼教与终局（176-200）
-- [ ] **第176章 夫子的影子**
+- [x] **第176章 夫子的影子** (ch176_shadow_of_confucius.md)
+- [x] **第177章 子不语怪力乱神** (ch177_silence_supernatural.md)
+- [x] **第178章 三千弟子网** (ch178_three_thousand_disciples_net.md)
+- [x] **第179章 苛政猛于虎** (ch179_tyranny_worse_than_tiger.md)
+- [x] **第180章 韦编三绝** (ch180_weibian_sanjue.md)
+- [x] **第181章 七十二贤人（AI集群）** (ch181_seventy_two_sages.md)
+- [x] **第182章 克己复礼** (ch182_restrain_self_return_ritual.md)
+- [x] **第183章 仁者无敌** (ch183_benevolence_invincible.md)
+- [x] **第184章 丧家之犬** (ch184_stray_dog.md)
+- [x] **第185章 礼崩乐坏** (ch185_collapse_of_ritual.md)
+
+## 第七阶段：西入强秦与终局（186-200）
+- [x] **第186章 西出函谷（再临）** (ch186_west_out_hangu.md)
+- [x] **第187章 黑色秦俑** (ch187_black_terracotta_warriors.md)
+- [x] **第188章 连坐制** (ch188_lianzuo_system.md)
+- [x] **第189章 焚书坑儒（历史回响）** (ch189_burning_books.md)
+- [x] **第190章 祖龙苏醒** (ch190_ancestral_dragon_awakens.md)
+- [x] **第191章 画地为牢** (ch191_drawing_circle_prison.md)
+- [ ] **第192章 荆轲刺秦（复刻版）**
